@@ -1,0 +1,15 @@
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\bin\Debug\WeekendTask.exe.config
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\bin\Debug\WeekendTask.exe
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\bin\Debug\WeekendTask.pdb
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\obj\Debug\WeekendTask.csprojAssemblyReference.cache
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\obj\Debug\WeekendTask.Properties.Resources.resources
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\obj\Debug\WeekendTask.csproj.GenerateResource.cache
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\obj\Debug\WeekendTask.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\obj\Debug\WeekendTask.exe
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\obj\Debug\WeekendTask.pdb
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\bin\Debug\EntityFramework.dll
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\bin\Debug\EntityFramework.xml
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\obj\Debug\WeekendTask.Users.resources
+C:\Users\Ulvi\Desktop\HomeWork\New folder\WeekendTask20190914\WeekendTask\obj\Debug\WeekendTask.csproj.CopyComplete
